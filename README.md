@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🌱 I’m currently writting on blog [xhou.me](https://xhou.me/)
+
+📫 You can reach me: xhou@xhou.me
+
+
+
 <!--
 **imhlq/imhlq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
