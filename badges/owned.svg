@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="159" height="28" role="img" aria-label="Owned stars: 45">
+  <title>Owned stars: 45</title>
+  <linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient>
+  <clipPath id="r"><rect width="159" height="28" rx="5"/></clipPath>
+  <g clip-path="url(#r)"><rect width="103" height="28" fill="#24292f"/><rect x="103" width="56" height="28" fill="#238636"/><rect width="159" height="28" fill="url(#s)"/></g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" font-weight="600">
+    <text x="51.5" y="18">Owned stars</text><text x="131.0" y="18">45</text>
+  </g>
+</svg>

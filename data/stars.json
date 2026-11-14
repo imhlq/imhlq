@@ -1,0 +1,401 @@
+{
+  "username": "imhlq",
+  "updated_at_utc": "2026-11-14T03:42:40.634575+00:00",
+  "definition": "Current stars on public owned repos and distinct public repos with authored commits or merged PRs",
+  "owned_stars": 45,
+  "contributed_stars": 280,
+  "combined_stars": 325,
+  "unavailable_repositories": [],
+  "repositories": [
+    {
+      "name": "imhlq/ADfaster",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/BestCNkeyboard",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/blogHou",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/ChineseWordEmbedding",
+      "stars": 6,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/chiviz",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/class_public",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/cobaya",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/Complete-Machine-Learning-Learning-Plan",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/DanMuScreen",
+      "stars": 6,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/Diary",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/EagleCasperTheme",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/EldenRingCheatSheetCN",
+      "stars": 18,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/factorio-chinese",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/Game-Vocabulary",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/github_profile",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/Hazma",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/imhlq",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/imhlq.github.io",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/IOI",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/ios_rule_script",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/LibraryGrab",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/LocalExile",
+      "stars": 1,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/MachineLearningInAstro",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/Mino",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/MySkyrim",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/nbody-demo",
+      "stars": 1,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/network-access-monitor",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/obsidian-releases",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/obsidian-runescribe",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/obsidian-tagfolder",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/OneDollar",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/ow-league-tokens",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/OWL-Analysis",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/PaperEagle",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/particles.js",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/PasswordGameCrasher",
+      "stars": 1,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/Phystoria",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/PonyMenu",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/PrisonBreak",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/ProjectE",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/quality-plants",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/QuickSell",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/resources",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/RimDefence",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/sdow",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/SlaySpireNiohModDev",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/SynergismFAST",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/teable",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/TexInput",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/textual",
+      "stars": 4,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/the-last-lantern",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/ticket-back",
+      "stars": 1,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/toolbox-not-included",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/Trinkets",
+      "stars": 5,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/unicorn-overlord-rewards-5222",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/wechat_jumpmore",
+      "stars": 1,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/WordleCrasher",
+      "stars": 1,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/WuXia-Database",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/xhd-format",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/zotero-arxiv-daily",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "LocalExile/LocalExile",
+      "stars": 270,
+      "owned": false,
+      "contributed": true
+    },
+    {
+      "name": "magicbanana666/ProjectE-Phoenix",
+      "stars": 0,
+      "owned": false,
+      "contributed": true
+    },
+    {
+      "name": "PonyWarrior/PonyMenu",
+      "stars": 8,
+      "owned": false,
+      "contributed": true
+    },
+    {
+      "name": "stormrabbit/EldenRingCheatSheetCN",
+      "stars": 1,
+      "owned": false,
+      "contributed": true
+    },
+    {
+      "name": "WeikangLin/IOI",
+      "stars": 1,
+      "owned": false,
+      "contributed": true
+    }
+  ]
+}
