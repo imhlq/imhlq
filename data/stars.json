@@ -1,6 +1,6 @@
 {
   "username": "imhlq",
-  "updated_at_utc": "2026-11-18T11:47:27.534251+00:00",
+  "updated_at_utc": "2026-11-19T11:45:01.094333+00:00",
   "definition": "Current stars on public owned repos and distinct public repos with authored commits or merged PRs",
   "owned_stars": 45,
   "contributed_stars": 294,
@@ -140,6 +140,12 @@
       "contributed": false
     },
     {
+      "name": "imhlq/LocalExile-Mods",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
       "name": "imhlq/MachineLearningInAstro",
       "stars": 0,
       "owned": true,
@@ -225,6 +231,12 @@
     },
     {
       "name": "imhlq/Phystoria",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/pokopia-pace",
       "stars": 0,
       "owned": true,
       "contributed": false
@@ -333,6 +345,12 @@
     },
     {
       "name": "imhlq/unicorn-overlord-rewards-5222",
+      "stars": 0,
+      "owned": true,
+      "contributed": false
+    },
+    {
+      "name": "imhlq/Waypoint",
       "stars": 0,
       "owned": true,
       "contributed": false
