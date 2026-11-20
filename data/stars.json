@@ -1,10 +1,10 @@
 {
   "username": "imhlq",
-  "updated_at_utc": "2026-11-19T11:45:01.094333+00:00",
+  "updated_at_utc": "2026-11-20T11:44:29.416178+00:00",
   "definition": "Current stars on public owned repos and distinct public repos with authored commits or merged PRs",
   "owned_stars": 45,
-  "contributed_stars": 294,
-  "combined_stars": 339,
+  "contributed_stars": 298,
+  "combined_stars": 343,
   "unavailable_repositories": [],
   "repositories": [
     {
@@ -387,7 +387,7 @@
     },
     {
       "name": "LocalExile/LocalExile",
-      "stars": 284,
+      "stars": 288,
       "owned": false,
       "contributed": true
     },
